@@ -2,6 +2,6 @@ This repository contains an analysis project focused on investigating a medical 
 
 Key tasks include:
 
-Data cleaning and exploration
-Analyzing correlations between appointment attendance and patient characteristics
+Data cleaning and exploration,
+Analyzing correlations between appointment attendance and patient characteristics,
 Visualizing insights through informative plots
