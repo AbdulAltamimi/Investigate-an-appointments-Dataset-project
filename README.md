@@ -13,7 +13,6 @@ It was completed as part of the **Udacity Data Analyst Nanodegree** program.
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
 6. [Key Findings](#key-findings)  
 7. [Conclusion](#conclusion)  
-8. [Files in Repository](#files-in-repository)  
 
 ---
 
@@ -67,14 +66,25 @@ The dataset contains **110,527 medical appointments** from Brazil and includes t
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Diabetes and Related Factors
-- Female diabetic patients slightly outnumber male diabetic patients (by ~2%).  
-- About **81.7% of diabetic patients also have hypertension** — showing a strong correlation between the two diseases.  
+- Female diabetic patients slightly outnumber male diabetic patients (by ~2%).
+- <img width="556" height="486" alt="image" src="https://github.com/user-attachments/assets/8a205c1d-b45e-4dc1-bf5d-3a33149880f6" />
+- About **81.7% of diabetic patients also have hypertension** — showing a strong correlation between the two diseases.
+- <img width="593" height="407" alt="image" src="https://github.com/user-attachments/assets/97b878d5-d128-4061-b024-ffb21dc8f7ae" />
+<img width="557" height="525" alt="image" src="https://github.com/user-attachments/assets/3bcfb776-9dbf-4a8f-85a9-795285cfb481" />
 - Most diabetic patients fall between **ages 50 and 75**.
+- <img width="577" height="451" alt="image" src="https://github.com/user-attachments/assets/afaaa554-7fe5-40e6-a25f-37067ae7668d" />
+
 
 ### 2️⃣ Attendance Behavior
-- Patients who **received SMS reminders were more likely to miss** their appointments.  
-- Patients **without scholarships** were **more likely to attend** than those enrolled in the scholarship program.  
+- Patients who **received SMS reminders were more likely to miss** their appointments.
+- <img width="736" height="407" alt="image" src="https://github.com/user-attachments/assets/77b65b5a-7bd7-4e70-99eb-690155f80c03" />
+<img width="656" height="404" alt="image" src="https://github.com/user-attachments/assets/7a3dcc34-c642-4289-8a88-9b5df12bc2e2" />
+- Patients **without scholarships** were **more likely to attend** than those enrolled in the scholarship program.
+- <img width="753" height="404" alt="image" src="https://github.com/user-attachments/assets/de2bc1b2-f00c-4450-8cf6-54473cf9203b" />
+ <img width="712" height="408" alt="image" src="https://github.com/user-attachments/assets/1de85b67-7912-4f38-bafa-9fb9b3fd6184" />
+
 - The **lowest attendance rate** was among patients who had both a scholarship **and** received an SMS reminder.  
+<img width="608" height="539" alt="image" src="https://github.com/user-attachments/assets/6458a560-da48-4ed5-8c95-40593f5bd0f0" />
 
 ---
 
@@ -96,11 +106,3 @@ The dataset contains **110,527 medical appointments** from Brazil and includes t
    Contrary to expectations, sending SMS reminders or being part of a scholarship program does not improve attendance — it actually correlates with *lower* attendance rates.  
    This may indicate issues with SMS timing or content, or socioeconomic challenges related to scholarship recipients.
 
----
-
-## 📂 Files in Repository
-.
-├── Investigate_a_Dataset.ipynb   # Main analysis notebook
-├── Investigate_a_Dataset.html    # Exported HTML report
-├── data/                         # Dataset (not included)
-└── README.md                     # Project documentation
