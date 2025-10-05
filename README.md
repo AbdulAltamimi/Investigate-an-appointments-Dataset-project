@@ -70,7 +70,7 @@ The dataset contains **110,527 medical appointments** from Brazil and includes t
 - <img width="556" height="486" alt="image" src="https://github.com/user-attachments/assets/8a205c1d-b45e-4dc1-bf5d-3a33149880f6" />
 - About **81.7% of diabetic patients also have hypertension** — showing a strong correlation between the two diseases.
 - <img width="593" height="407" alt="image" src="https://github.com/user-attachments/assets/97b878d5-d128-4061-b024-ffb21dc8f7ae" />
-<img width="557" height="525" alt="image" src="https://github.com/user-attachments/assets/3bcfb776-9dbf-4a8f-85a9-795285cfb481" />
+- <img width="557" height="525" alt="image" src="https://github.com/user-attachments/assets/3bcfb776-9dbf-4a8f-85a9-795285cfb481" />
 - Most diabetic patients fall between **ages 50 and 75**.
 - <img width="577" height="451" alt="image" src="https://github.com/user-attachments/assets/afaaa554-7fe5-40e6-a25f-37067ae7668d" />
 
